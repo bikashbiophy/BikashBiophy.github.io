@@ -142,7 +142,8 @@ window.SITE = {
   memberships: [
     { role: "Life member", name: "Fluorescence Society", url: "https://fluorescenceindia.org/" },
     { role: "Life member", name: "Indian Biophysical Society", url: "https://biophysicsindia.org/" },
-    { role: "Life member", name: "Odisha Physical Society", url: "http://www.orissaphysicalsociety.org/about_us.php" }
+    { role: "Life member", name: "Odisha Physical Society", url: "http://www.orissaphysicalsociety.org/about_us.php" },
+    { role: "Life member", name: "Indian Association of Physics Teachers", url: "https://iapt.org.in/" }
   ],
 
   // ---------- Elsewhere on the web ----------
